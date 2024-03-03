@@ -63,3 +63,5 @@ get 'old-books', to: redirect('books')
 ---
 
 Las rutas son una parte vital de cualquier aplicación Rails, proporcionando un mapeo flexible y potente entre las URLs de tu aplicación y su lógica de negocio. Aprovechar el sistema de enrutamiento de Rails te permite diseñar una experiencia de usuario clara y coherente.
+
+[:arrow_backward:](25-Controladores.md) [:arrow_forward:](27-Despliegue.md)
