@@ -49,3 +49,5 @@ La Programación Orientada a Objetos te permite modelar entidades del mundo real
 
 Explorar estos conceptos te dará una base sólida no solo en Ruby sino en la programación en general, abriendo las puertas a patrones de diseño avanzados y mejores prácticas en el desarrollo de software.
 
+
+[:arrow_backward:](11-Bloques-Procs-Lambdas.md) [:arrow_forward:](13-Atributos.md)

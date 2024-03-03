@@ -37,3 +37,5 @@ El despliegue es el proceso de poner tu aplicación a disposición de los usuari
 ---
 
 El desarrollo de un proyecto final en Rails es una oportunidad excelente para aplicar lo que has aprendido y demostrar tus habilidades. Cada paso del proceso es crucial para el éxito del proyecto, desde la planificación cuidadosa hasta el despliegue y mantenimiento de tu aplicación.
+
+[:arrow_backward:](26-Rutas.md) [:arrow_forward:](28-Recursos.md)

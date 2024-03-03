@@ -78,3 +78,5 @@ Es importante notar que `return` termina inmediatamente la ejecución del métod
 ---
 
 Definir y utilizar métodos es esencial para escribir código Ruby limpio y mantenible. Los métodos no solo ayudan a organizar tu código en bloques lógicos, sino que también facilitan la reutilización de código y hacen tus programas más legibles y fáciles de debuggear.
+
+[:arrow_backward:](09-Bucles.md) [:arrow_forward:](11-Bloques-Procs-Lambdas.md)

@@ -51,4 +51,4 @@ Este flujo asegura una separación clara de responsabilidades dentro de la aplic
 
 El patrón Modelo-Vista-Controlador (MVC) es fundamental para el desarrollo de aplicaciones web en Rails. Al seguir este patrón, puedes mantener tu código organizado y modular, lo que facilita la colaboración y el mantenimiento a largo plazo. Además, Rails proporciona herramientas y convenciones que hacen que trabajar con MVC sea sencillo y efectivo.
 
-[:arrow_heading_up: Regresar al inicio del documento](#ruby-on-rails)
+[:arrow_backward:](18-Intro-Ruby-on-Rails.md) [:arrow_forward:](20-Proyecto.md)

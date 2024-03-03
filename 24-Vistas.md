@@ -46,3 +46,5 @@ Los layouts en Rails son plantillas que envuelven las vistas y proporcionan una 
 ---
 
 Las vistas son una parte fundamental de cualquier aplicación Rails, permitiéndote crear interfaces de usuario ricas y dinámicas. Al aprovechar las características de Rails como ERB, partials, helpers y layouts, puedes construir aplicaciones web complejas y atractivas de manera eficiente.
+
+[:arrow_backward:](23-Modelos.md) [:arrow_forward:](24-Vistas.md)

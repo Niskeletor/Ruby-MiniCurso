@@ -49,4 +49,4 @@ mostrar_pi  # Imprime 3.14159
 
 Las variables y la asignación son fundamentales para cualquier programa Ruby. Entender la diferencia entre variables locales, globales y constantes, así como sus alcances y usos recomendados, es esencial para escribir código limpio y mantenible. 
 
-[:arrow_backward:](07-Operadores.md) [:arrow_forward:](09-Bucles.md)
+[:arrow_backward:](05-Tipos-Datos.md) [:arrow_forward:](07-Operadores.md)

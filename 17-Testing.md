@@ -47,3 +47,5 @@ RSpec anima a escribir tus pruebas en un estilo muy legible, casi como si estuvi
 
 El testing es una parte integral del desarrollo y adoptar buenas prácticas de testing desde el principio de tu proyecto puede ahorrarte muchos dolores de cabeza más adelante. Tanto `Test::Unit` como `RSpec` ofrecen herramientas poderosas para ayudarte a escribir pruebas efectivas para tu código Ruby.
 
+ [:arrow_backward:](16-Datos-Avanzados.md) [:arrow_forward:](18-Intro-Ruby-on-Rails.md)
+ 

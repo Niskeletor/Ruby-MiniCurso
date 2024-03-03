@@ -29,3 +29,6 @@ Una de las mayores fortalezas de Rails es su vibrante y activa comunidad. Hay un
 ---
 
 Ruby on Rails ha revolucionado el desarrollo web con su enfoque en la eficiencia y simplicidad. Ya sea que estés construyendo una aplicación web compleja o una API simple, Rails ofrece las herramientas y recursos para hacerlo de manera efectiva.
+
+[:arrow_backward:](17-Testing.md) [:arrow_forward:](19-MVC-en-Rails.md)
+

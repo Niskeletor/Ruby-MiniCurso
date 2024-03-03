@@ -22,8 +22,7 @@ Imagina tomar toda esa elegancia y eficiencia de Ruby y aplicarla al desarrollo 
 
 ---
 
-Espero que este breve viaje a través de Ruby y Ruby on Rails haya encendido una chispa de curiosidad en ti. Así como yo me embarqué en esta aventura por serendipia,
-intentando solventar el problema de autentificación de una API, así que vamos a pulir este diamante en bruto y hacerlo brillar. 
+Espero que este breve viaje a través de Ruby y Ruby on Rails haya encendido una chispa de curiosidad en ti. Así como yo me embarqué en esta aventura por serendipia, así que vamos a pulir este diamante en bruto y hacerlo brillar. 
 
-[:arrow_backward:](README.md) [:arrow_forward:](01-Introduccion.md)
+[:arrow_backward:](README.md) [:arrow_forward:](02-Historia-Ruby.md)
 

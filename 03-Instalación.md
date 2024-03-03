@@ -3,7 +3,7 @@
 
 Instalar Ruby y configurar tu entorno de desarrollo es el primer paso para sumergirte en el mundo de la programación con Ruby. Afortunadamente, Ruby es amigable con la mayoría de los sistemas operativos, y aquí te guiaré a través del proceso para Windows, macOS y Linux.
 
-### **Windows**
+### **Windows** 
 
 Para los usuarios de Windows, RubyInstaller ofrece la forma más sencilla de obtener Ruby en tu máquina. Sigue estos pasos:
 
@@ -51,9 +51,5 @@ Con Ruby instalado y tu editor de texto listo, estás preparado para empezar a e
 
 
 ---
-[:arrow_backward:](02-Historia-Ruby.md) [:arrow_forward:](04-Sintaxis.md)
 
-[]: # (END)
-[]: # (Hasta aquí el capítulo 3)
-
-[]: # (START
+[:arrow_backward:](02-Historia-Ruby.md) [:arrow_forward:](03b-Configuracion.md)

@@ -47,3 +47,5 @@ Si una migración aún no ha sido ejecutada por otros desarrolladores o en produ
 ---
 
 Las migraciones son una herramienta esencial en Ruby on Rails que facilita el mantenimiento y la evolución de la base de datos de tu aplicación. Al usar migraciones, mantienes un registro claro de los cambios estructurales, permitiendo que tu aplicación evolucione de manera segura y controlada.
+
+[:arrow_backward:](21-BBDD.md) [:arrow_forward:](23-Modelos.md)

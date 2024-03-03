@@ -27,4 +27,4 @@ Para proyectos más grandes, es común usar un archivo `Gemfile` para especifica
 
 
 ---
-[:arrow_backward:](02-Historia-Ruby.md) [:arrow_forward:](04-Sintaxis.md)
+[:arrow_backward:](03-Instalacion.md) [:arrow_forward:](04-Sintaxis.md)

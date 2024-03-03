@@ -45,3 +45,5 @@ Usando mixins, puedes diseñar tus módulos para ser reutilizados en varias clas
 ---
 
 Los módulos y mixins son herramientas esenciales en Ruby que te ofrecen flexibilidad para organizar y reutilizar tu código de manera efectiva. Entender cómo y cuándo usarlos te permitirá construir aplicaciones Ruby más modulares, limpias y eficientes.
+
+ [:arrow_backward:](14-Herencia.md) [:arrow_forward:](16-Datos-Avanzados.md)

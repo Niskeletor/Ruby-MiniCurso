@@ -1,19 +1,21 @@
 
-## ¿Qué es Ruby?
+##  ♦️ ¿Qué es Ruby? ♦️
 
 Ruby es un lenguaje de programación dinámico y orientado a objetos, diseñado para ser simple y fácil de leer y escribir. Fue creado por Yukihiro "Matz" Matsumoto en Japón en 1995 con la idea de que la programación debe ser divertida para los desarrolladores.
 
-## ¿Para qué sirve Ruby on Rails?
+## ¿Para qué sirve Ruby on Rails? 🚊
 
 Ruby on Rails, o simplemente Rails, es un framework de desarrollo web escrito en Ruby. Promueve el uso de patrones de diseño como MVC (Model-View-Controller), y se destaca por su enfoque en la convención sobre la configuración y el principio de no repetirse (DRY).
 
-## Mi Anécdota con Ruby
+## Mi Anécdota con Ruby 💁🏼‍♂️
 
 Mi aventura con Ruby comenzó por serendipia. Un día apareció un desafío en el trabajo en el que no se conseguía interconectar una API con un ERP, me topé con Ruby y me llevó a rascar un poco as en profundidad. La elegancia y la simplicidad del lenguaje capturaron mi interés rápidamente, de hecho me recuerda a mis andanzas con Python.
 
 ## Contenido del `Curso`
 
 No me gustaría llamarlo directamente un Curso sobre Ruby. Este recurso  nació inicialmente con mi manera de tomar notas cada vez que me enfrento a un desafío nuevo, adopto la costumbre de tomar notas, normalmente en Markdown y mientras estaba en ello pensé que sería un formato útil para compartir a cualquiera que tenga curiosidad por este lenguaje. Aquí está el esquema:
+
+---
 
 ## Introducción a Ruby
 
@@ -132,6 +134,7 @@ No me gustaría llamarlo directamente un Curso sobre Ruby. Este recurso  nació 
 
 Recuerda que cada sección puede expandirse con más contenido específico 🏄
 
+--- 
 
 ## Contribuciones
 
@@ -139,7 +142,7 @@ Si estás interesado en contribuir al curso o tienes alguna sugerencia, no dudes
 
 ## Licencia
 
-Este curso está licenciado bajo [MIT License](LICENSE).
+Este curso está licenciado bajo [[MIT License](https://opensource.org/license/mit)](LICENSE).
 
 ---
 

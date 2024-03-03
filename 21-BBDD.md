@@ -66,3 +66,5 @@ rails db:seed
 ---
 
 Trabajar con bases de datos en Rails es eficiente y simplificado gracias a herramientas como ActiveRecord y las migraciones. Estas herramientas te ayudan a mantener tu código y estructura de base de datos organizados, versionados, y en sincronía con el desarrollo de tu aplicación.
+
+[:arrow_backward:](20-Proyecto.md) [:arrow_forward:](22-Migraciones.md)

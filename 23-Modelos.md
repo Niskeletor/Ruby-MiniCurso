@@ -62,3 +62,5 @@ end
 ---
 
 Los modelos en Ruby on Rails son herramientas poderosas que te permiten manejar la lógica de negocio y la interacción con la base de datos de manera eficiente y organizada. Al aprovechar las características de ActiveRecord, Rails hace que trabajar con bases de datos sea intuitivo y flexible, permitiéndote centrarte en construir las funcionalidades de tu aplicación.
+
+[:arrow_backward:](22-Migraciones.md) [:arrow_forward:](24-Vistas.md)

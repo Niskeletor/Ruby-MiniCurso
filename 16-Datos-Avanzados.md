@@ -59,3 +59,5 @@ end
 ---
 
 Estos conceptos son esenciales para cualquier programador Ruby, ya que proporcionan las herramientas necesarias para manipular datos, trabajar con texto de manera avanzada y manejar archivos, tres tareas comunes en muchos programas.
+
+ [:arrow_backward:](15-Modulos.md) [:arrow_forward:](17-Tasting.md)

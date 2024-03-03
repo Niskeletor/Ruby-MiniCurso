@@ -54,3 +54,5 @@ Esto iniciará un servidor web local en el puerto 3000. Abre tu navegador y visi
 ---
 
 Ahora ya se un proyecto de Ruby on Rails en marcha y listo para ser desarrollado. Desde aquí, puedes comenzar a agregar modelos, vistas, y controladores para construir la funcionalidad de tu aplicación web. Rails ofrece una amplia gama de herramientas y generadores que te ayudarán a agregar nuevas características rápidamente.
+
+[:arrow_backward:](19-MVC-en-Rails.md) [:arrow_forward:](21-BBDD.md)

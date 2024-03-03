@@ -47,4 +47,4 @@ Además del operador de asignación básico (`=`), Ruby ofrece operadores de asi
 
 El dominio de estos operadores es esencial para manipular datos y controlar el flujo de tus programas en Ruby. Experimenta con ellos para ver cómo puedes combinarlos de maneras interesantes y resolver problemas de manera eficiente.
 
-[:arrow_backward:](04-Sintaxis.md) [:arrow_forward:](06-Métodos.md)
+[:arrow_backward:](06-Variables.md) [:arrow_forward:](08-Condicionales.md)

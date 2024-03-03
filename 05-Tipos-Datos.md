@@ -68,4 +68,4 @@ persona = { nombre: "Nis", profesion: "Desarrollador" }
 ---
 Los tipos de datos son fundamentales para cualquier programa Ruby. Comprender cómo manejar números, texto, y otros tipos de datos te permitirá escribir programas más expresivos y eficientes.
 
-[:arrow_backward:](04-Sintaxis.md) [:arrow_forward:](06-Métodos.md)
+[:arrow_backward:](04-Sintaxis.md) [:arrow_forward:](06-Variables.md)

@@ -41,4 +41,4 @@ La comprensión de estas palabras reservadas es esencial para escribir código R
 
 Las palabras reservadas y los comentarios son elementos fundamentales de la sintaxis de Ruby. Aprender a utilizarlos correctamente te ayudará a escribir código claro y legible, y a comprender mejor cómo Ruby interpreta tus instrucciones.
 
-[:arrow_backward:](03-Configuracion.md) [:arrow_forward:](05-Tipos-Datos.md)
+[:arrow_backward:](03b-Configuracion.md) [:arrow_forward:](05-Tipos-Datos.md)

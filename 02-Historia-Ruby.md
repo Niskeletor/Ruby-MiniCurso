@@ -3,7 +3,7 @@
 
 Ruby, nacido en el corazón de Japón en 1995 de la mano de Yukihiro "Matz" Matsumoto, fue concebido con una filosofía que lo distingue del resto: hacer feliz al programador. Matz, buscando la felicidad y satisfacción en la programación, diseñó Ruby para ser intuitivo, elegante y, sobre todo, divertido de usar. La idea era simple pero revolucionaria: si te encanta lo que haces, lo harás mejor.
 
-### **Un Viaje Desde el Oriente**
+### **Un Viaje Desde el Oriente** 🇯🇵
 
 Desde su concepción, Ruby ha sido el lienzo en blanco para aquellos que buscan expresarse a través del código, un lugar donde la simplicidad se encuentra con la potencia. Pero, ¿qué hace que Ruby sea tan especial? Es su capacidad para hacer que lo complejo se sienta sencillo, permitiendo a los desarrolladores concentrarse en la creatividad y solución de problemas más que en el código en sí.
 
@@ -21,4 +21,4 @@ Ruby y Rails pueden no ser la nueva moda en el mundo de la programación, pero s
 
 Las raíces de Ruby son profundas y su historia es fascinante. A medida que te adentres en el mundo de Ruby, recuerda que estás siguiendo los pasos de muchos otros que han encontrado alegría y satisfacción en este lenguaje. Ruby es más que un lenguaje de programación; es una filosofía que te invita a disfrutar del viaje tanto como del destino.
 
-[:arrow_backward:](README.md) [:arrow_forward:](02-Configuracion.md)
+[:arrow_backward:](01-Introduccion.md) [:arrow_forward:](03-Instalacion.md)

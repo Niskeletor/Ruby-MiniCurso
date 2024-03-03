@@ -59,3 +59,5 @@ En este caso, `Coche#arrancar` extiende la funcionalidad del método `arrancar` 
 ---
 
 La herencia y el uso adecuado del método `super` son fundamentales para aprovechar la potencia de la programación orientada a objetos en Ruby, permitiéndote crear aplicaciones más modulares, reutilizables y fáciles de mantener.
+
+[:arrow_backward:](13-Atributos.md) [:arrow_forward:](15-Modulos.md)

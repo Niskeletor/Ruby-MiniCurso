@@ -61,5 +61,5 @@ end
 ---
 
 Cada uno de estos bucles tiene su propósito y situación donde brilla más. Experimentar con ellos te ayudará a comprender mejor sus diferencias y cuándo usar cada uno. Los bucles son una parte integral de la programación en Ruby, permitiéndote automatizar tareas repetitivas de manera eficiente.
-    
-    [:arrow_backward:](/04-Sintaxis/README.md) [:arrow_forward:](/06-Métodos/README.md)
+
+[:arrow_backward:](08-Condicionales.md) [:arrow_forward:](10-metodos.md)

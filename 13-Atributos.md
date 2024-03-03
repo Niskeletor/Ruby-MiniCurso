@@ -61,3 +61,5 @@ puts persona.nombre  # => Otro Nombre
 
 El uso de `attr_reader`, `attr_writer`, y `attr_accessor` facilita la gestión de los atributos de tus objetos, haciendo tu código más limpio y fácil de mantener. Al definir claramente cómo se pueden acceder y modificar los datos de un objeto, también mejoras la seguridad y la integridad de tus programas.
 
+[:arrow_backward:](11-Bloques-Procs-Lambdas.md) [:arrow_forward:](14-Herencia.md)
+

@@ -46,3 +46,5 @@ saludo_lambda.call("Nis")
 ---
 
 Los bloques, Procs y Lambdas son herramientas increíblemente poderosas en Ruby, ofreciendo una gran flexibilidad para manejar código que se ejecuta dentro de tus métodos. Aprender a utilizarlos efectivamente abrirá nuevas puertas para escribir código más limpio, modular y reutilizable.
+
+[:arrow_backward:](10-metodos.md) [:arrow_forward:](12-POO-Basicos.md)

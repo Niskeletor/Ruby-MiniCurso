@@ -25,3 +25,5 @@
 Aprovechar estos recursos y ser parte activa de la comunidad de Ruby on Rails no solo te ayudará a resolver problemas y mejorar tus proyectos actuales, sino que también te abrirá puertas a nuevas oportunidades de aprendizaje y colaboración.
 
 ¡Felicitaciones por completar tu viaje de aprendizaje en Ruby on Rails! 🎉
+
+[:arrow_backward:](28-Recursos.md) [:arrow_forward:](README.md)

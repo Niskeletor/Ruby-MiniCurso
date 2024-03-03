@@ -72,3 +72,5 @@ resources :users
 ---
 
 Los controladores son una pieza clave en la arquitectura de Rails, proporcionando una forma clara y organizada de gestionar la interacción entre el usuario y la aplicación. Al comprender y utilizar correctamente los controladores, puedes construir aplicaciones web complejas y eficientes.
+
+[:arrow_backward:](24-Vistas.md) [:arrow_forward:](26-Rutas.md)
