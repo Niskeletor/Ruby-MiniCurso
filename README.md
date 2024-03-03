@@ -9,7 +9,7 @@ Ruby on Rails, o simplemente Rails, es un framework de desarrollo web escrito en
 
 ## Mi Anécdota con Ruby 💁🏼‍♂️
 
-Mi aventura con Ruby comenzó por serendipia. Un día apareció un desafío en el trabajo en el que no se conseguía interconectar una API con un ERP, me topé con Ruby y me llevó a rascar un poco as en profundidad. La elegancia y la simplicidad del lenguaje capturaron mi interés rápidamente, de hecho me recuerda a mis andanzas con Python.
+Mi aventura con Ruby comenzó por serendipia. Un día apareció un desafío en el trabajo en el que no se conseguía interconectar una API con el Endpoint de un ERP, me topé con Ruby y me llevó a rascar un poco más en profundidad. La elegancia y la simplicidad del lenguaje capturaron mi interés rápidamente, de hecho me recuerda a mis andanzas con Python.
 
 ## Contenido del `Curso`
 
