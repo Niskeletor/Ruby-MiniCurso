@@ -13,7 +13,7 @@ Mi aventura con Ruby comenzó por serendipia. Un día apareció un desafío en e
 
 ## Contenido del `Curso`
 
-No me gustaría llamarlo directamente un Curso sobre Ruby. Este recurso  nació inicialmente con mi manera de tomar notas cada vez que me enfrento a un desafío nuevo, adopto la costumbre de tomar notas, normalmente en Markdown y mientras estaba en ello pensé que sería un formato útil para compartir a cualquiera que tenga curiosidad por este lenguaje. Aquí está el esquema:
+No me gustaría llamarlo directamente un Curso sobre Ruby. Este recurso  nació inicialmente con mi manera de tomar notas cada vez que me enfrento a un desafío nuevo, adopto esta costumbre, normalmente con Markdown-Notion y mientras estaba en ello pensé que sería un formato útil para compartir a cualquiera que tenga curiosidad por este lenguaje. Aquí está el esquema:
 
 ---
 
